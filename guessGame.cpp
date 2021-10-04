@@ -1,7 +1,7 @@
 // Copyright (c) 2021 D.B. Calitis All rights reserved
 //
 // Created by: Daria Bernice Calitis
-// Created on: Sept 2021
+// Created on: Oct 2021
 // This program is a number guessing game
 
 #include <iostream>
